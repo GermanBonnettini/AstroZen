@@ -31,6 +31,17 @@ Autenticación segura y almacenamiento con Firebase.
 
 Persistencia de datos local para acceso sin conexión.
 
+📸 Screenshots
+
+<p>
+  <img src="Screenshots/Home.png" width="250">
+  <img src="screenshots/Compatible.png" width="250">
+  <img src="Screenshots/Invitado.png" width="250">
+  <img src="Screenshots/Match.png" width="250">
+  <img src="Screenshots/Profile.png" width="250">
+</p>
+
+
 
 🛠️ Instalación y Ejecución
 
