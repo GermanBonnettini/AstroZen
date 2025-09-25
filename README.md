@@ -1,35 +1,39 @@
-🌌 AstroZen
+# 🌌 AstroZen  
 
-AstroZen es un proyecto personal desarrollado íntegramente en Xcode como parte de mi crecimiento y práctica profesional como desarrollador iOS.
-La aplicación busca combinar la tecnología moderna con la sabiduría ancestral china, permitiendo probar la compatibilidad entre personas a través de una experiencia interactiva, visual y personalizada.
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Swift](https://img.shields.io/badge/Swift-6.2-orange?logo=swift&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-iOS%2017+-lightgrey?logo=apple)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
+---
 
-🚀 Tecnologías Utilizadas
+## ✨ Overview  
 
-Swift + SwiftUI → desarrollo completo y nativo en iOS.
+**AstroZen** is a personal project fully developed in **Xcode**, created as part of my professional growth as an iOS developer.  
+The app combines **modern technology** with **ancient Chinese wisdom**, offering users an **interactive, visual, and personalized experience** to test compatibility between people.  
 
-API de OpenAI + DALL·E 3 → generación de imágenes personalizadas con IA.
+---
 
-Firebase → autenticación y almacenamiento en la nube.
+## 🚀 Tech Stack  
 
-Arquitectura MVVM + Core Data → organización eficiente de la lógica y persistencia local de datos.
+- **Swift + SwiftUI** → complete, native iOS development  
+- **OpenAI API + DALL·E 3** → AI-powered personalized image generation  
+- **Firebase** → authentication and cloud storage  
+- **MVVM + Core Data** → clean architecture and local persistence  
+- **Adaptive UX/UI** → responsive design, animations, and immersive user experience  
+- **GitHub** → version control and project management  
 
-UX/UI adaptativa → diseño responsivo, animaciones y experiencia fluida.
+---
 
-GitHub → control de versiones y gestión de cambios.
+## 📱 Main Features  
 
+- Personalized compatibility based on Chinese astrology  
+- Unique image generation powered by AI  
+- Animations and adaptive design for an immersive feel  
+- Secure authentication and cloud storage with Firebase  
+- Offline-ready with Core Data local persistence  
 
-📱 Funcionalidades Principales
-
-Compatibilidad personalizada entre usuarios basada en astrología china.
-
-Generación de imágenes únicas mediante IA.
-
-Animaciones y diseño adaptado para una experiencia inmersiva.
-
-Autenticación segura y almacenamiento con Firebase.
-
-Persistencia de datos local para acceso sin conexión.
+---
 
 📸 Screenshots
 
@@ -43,62 +47,57 @@ Persistencia de datos local para acceso sin conexión.
 
 
 
-🛠️ Instalación y Ejecución
+## 🛠️ Installation & Setup  
 
-Clonar el repositorio:
+Clone the repository:  
 
 git clone https://github.com/GermanBonnettini/AstroZen.git
+cd AstroZen
+Open the project in Xcode 15+
 
-Abrir el proyecto en Xcode.
+Make sure you have iOS 17+ (simulator or device)
 
-Asegurarse de tener Xcode 15+ y iOS 17+ (simulador o dispositivo real).
+Configure Firebase with your GoogleService-Info.plist file
 
-Configurar las credenciales de Firebase (GoogleService-Info.plist).
-
-Ejecutar en simulador o dispositivo.
-
-
-📂 Estructura del Proyecto
-
-AstroZen.xcodeproj → archivo principal del proyecto.
-
-Resources/ → assets, imágenes y recursos de la app.
-
-CoreData/ → modelos de datos persistentes.
-
-Views/ → interfaces creadas con SwiftUI.
-
-ViewModels/ → lógica bajo arquitectura MVVM.
+Run the project on a simulator or real device with ⌘R
 
 
-🎥 Demo
+## 📂 Project Structure
 
-👉 Te comparto un video de una de las primeras versiones (puede no ser la versión final):
-🔗 Ver demo en LinkedIn
+AstroZen.xcodeproj → main project file
 
+Resources/ → assets, images, and resources
 
-📌 Roadmap
+CoreData/ → persistent data models
 
-Pulir detalles de UI/UX.
+Views/ → SwiftUI interfaces
 
-Incorporar más interacciones sociales.
-
-Ampliar las funcionalidades de compatibilidad.
-
-Preparación para lanzamiento en App Store.
+ViewModels/ → business logic under MVVM
 
 
-👨‍💻 Autor
+## 🎥 Demo
 
-Desarrollado por German Bonnettini
-
-
-🌐 LinkedIn
-
-https://www.linkedin.com/in/german-bonnettini/
+👉 Watch demo on LinkedIn
+(Video may not reflect the final version)
 
 
-📜 Licencia
+## 📌 Roadmap
 
-Este proyecto se comparte con fines de portafolio y aprendizaje.
-Licencia: MIT
+Refine UI/UX details
+
+Add more social interactions
+
+Expand compatibility features
+
+Prepare for App Store launch
+
+
+## 👨‍💻 Author
+
+Developed by German Bonnettini
+🔗 LinkedIn Profile
+
+
+## 📜 License
+This project is shared for portfolio and learning purposes.
+Licensed under the MIT License. See LICENSE for more details.
