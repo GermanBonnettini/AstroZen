@@ -35,7 +35,7 @@ The app combines **modern technology** with **ancient Chinese wisdom**, offering
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 <p>
   <img src="Screenshots/Home.png" width="250">
@@ -45,7 +45,7 @@ The app combines **modern technology** with **ancient Chinese wisdom**, offering
   <img src="Screenshots/Profile.png" width="250">
 </p>
 
-
+---
 
 ## 🛠️ Installation & Setup  
 
@@ -61,6 +61,7 @@ Configure Firebase with your GoogleService-Info.plist file
 
 Run the project on a simulator or real device with ⌘R
 
+---
 
 ## 📂 Project Structure
 
@@ -74,12 +75,14 @@ Views/ → SwiftUI interfaces
 
 ViewModels/ → business logic under MVVM
 
+---
 
 ## 🎥 Demo
 
 👉 Watch demo on LinkedIn
 (Video may not reflect the final version)
 
+---
 
 ## 📌 Roadmap
 
@@ -91,12 +94,14 @@ Expand compatibility features
 
 Prepare for App Store launch
 
+---
 
 ## 👨‍💻 Author
 
 Developed by German Bonnettini
 🔗 LinkedIn Profile
 
+---
 
 ## 📜 License
 This project is shared for portfolio and learning purposes.
