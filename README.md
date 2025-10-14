@@ -98,7 +98,7 @@ Prepare for App Store launch
 
 ## 🧑‍💻 Author
 
-**German Bonnwttini**  
+**German Bonnettini**  
 iOS & Game Developer  
 🎮 Creating interactive and visually immersive mobile experiences.  
 📍 [Matecode Studio](https://matecodestudio.io/)
