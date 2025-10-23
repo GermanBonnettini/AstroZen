@@ -35,15 +35,16 @@ The app combines **modern technology** with **ancient Chinese wisdom**, offering
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-|                     Home                     |                         Match                       |                      Guess                       |                                    
-| :------------------------------------------: | :--------------------------------------------------:| :----------------------------------------------: | 
-| <img src="*/Screenshots/Match.png)" width="250"> |  <img src="Screenshots/Match.png" width="250"> | <img src="Screenshots/Invitado.png" width="250"> | 
+| 🏠 Home | 💫 Match | 🎯 Guess |
+|:--:|:--:|:--:|
+| <img src="Screenshots/Home.png" width="250"> | <img src="Screenshots/Match.png" width="250"> | <img src="Screenshots/Invitado.png" width="250"> |
 
-|                        Comp                        |                     Profile                     |
-| :------------------------------------------------: | :---------------------------------------------: |
+| 🔮 Compatibility | 👤 Profile |
+|:--:|:--:|
 | <img src="Screenshots/Compatible.png" width="250"> | <img src="Screenshots/Profile.png" width="250"> |
+
 
 ---
 
