@@ -16,7 +16,7 @@ The app combines **modern technology** with **ancient Chinese wisdom**, offering
 
 ## 🚀 Tech Stack  
 
-- **Swift + SwiftUI** → complete, native iOS development  
+- **Swift** → complete, native iOS development  
 - **OpenAI API + DALL·E 3** → AI-powered personalized image generation  
 - **Firebase** → authentication and cloud storage  
 - **MVVM + Core Data** → clean architecture and local persistence  
