@@ -39,7 +39,7 @@ The app combines **modern technology** with **ancient Chinese wisdom**, offering
 
 |                     Home                     |                         Match                       |                      Guess                       |                                    
 | :------------------------------------------: | :--------------------------------------------------:| :----------------------------------------------: | 
-| <img src="[Screenshots/Home.png](https://github.com/GermanBonnettini/AstroZen/blob/main/Screenshots/Match.png)" width="250"> |  <img src="Screenshots/Match.png" width="250"> | <img src="Screenshots/Invitado.png" width="250"> | 
+| <img src="*/Screenshots/Match.png)" width="250"> |  <img src="Screenshots/Match.png" width="250"> | <img src="Screenshots/Invitado.png" width="250"> | 
 
 |                        Comp                        |                     Profile                     |
 | :------------------------------------------------: | :---------------------------------------------: |
